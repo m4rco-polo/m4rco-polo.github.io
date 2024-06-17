@@ -1,4 +1,4 @@
-<h3 align="center">Just a linktree-eque site for all my socials in one place.</h3>
+<h3 align="center">Just a linktree-esque site for all my socials in one place.</h3>
 <h3 align="center"> Free to use, no need to attribute </h3>
 ## License
 
